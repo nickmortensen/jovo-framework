@@ -27,7 +27,7 @@ The Jovo TestSuite allows you to create unit tests for your Alexa Skills and Goo
 
 ## Getting Started with the Jovo TestSuite
 
-> Use the [Jovo Unit Testing Template](https://www.jovo.tech/templates/unit-testing) to get started with some first tests.
+> Use the [Jovo Unit Testing Template](https://github.com/jovotech/jovo-framework/tree/master/examples/javascript/unit-testing) to get started with some first tests.
 
 Here's everything you need to know to get started:
 * [Install Jest](#install-jest)
@@ -48,7 +48,7 @@ $ npm install jest --save-dev
 
 ### Create Test File
 
-> [You can find an example test project here](https://github.com/jovotech/jovo-framework-nodejs/tree/master/examples/unit-testing).
+> [You can find an example test project here](https://github.com/jovotech/jovo-framework/tree/master/examples/javascript/unit-testing).
 
 Unit tests are usually located in a `test` folder of your Jovo project. Naming conventions are `<name>.test.js`.
 
