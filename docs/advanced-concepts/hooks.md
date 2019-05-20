@@ -16,7 +16,7 @@ Watch the video here:
 
 ## Introduction
 
-> [Find a full example file here](https://github.com/jovotech/jovo-framework/blob/master/examples/hooks/src/app.js).
+> [Find a full example file here](https://github.com/jovotech/jovo-framework/tree/master/examples/javascript/hooks).
 
 Jovo Hooks allow you to "hook" into `middlewares` of the [Jovo Architecture](./architecture.md './architecture'). 
 
